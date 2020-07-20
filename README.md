@@ -1,2 +1,2 @@
-# PAFO-OS
-Powerful, Affordable, Fast, Open-source
+# FOF-OS
+Fast, Open-source, Free
